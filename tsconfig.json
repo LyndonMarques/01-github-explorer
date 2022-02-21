@@ -1,6 +1,6 @@
 {
   "compilerOptions": {       
-    "lib": ["DOM", "DOM.Iterable", "ESNext"],                                        
+    "lib": ["dom", "dom.iterable", "esnext"],                                        
     "jsx": "react-jsx",                                 
     "moduleResolution": "node",                         
     "resolveJsonModule": true,                            
@@ -13,5 +13,5 @@
     "strict": true,                                          
     "skipLibCheck": true                                 
   },
-  "include": ["src"],
+  "include": ["src"]
 }
